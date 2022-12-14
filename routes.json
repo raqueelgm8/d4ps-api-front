@@ -1,0 +1,8 @@
+{
+  "/api/*": "/$1",
+  "/catalogs/ccaa": "/ccaa",
+  "/catalogs/provinces": "/provinces",
+  "/catalogs/provinces/:ccaa": "/provinces?id_ccaa=:ccaa",
+  "/catalogs/sex": "/sex",
+  "users": "/users"
+}
